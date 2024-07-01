@@ -70,8 +70,4 @@
 
 
 
-<role rolename="manager-gui" />
-<user username="manager" password="manager_password" roles="manager-gui" />
 
-<role rolename="admin-gui" />
-<user username="admin" password="K0hglory" roles="manager-gui,admin-gui" />
